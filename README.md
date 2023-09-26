@@ -6,3 +6,6 @@ Changes made using Github Desktop.
 new named branch is created from Github Desktop.
 
 Merging from GitDesktop & then pushed to the Github.
+
+- Resolving Merge Conflicts-
+	- An event where git is unable to resolve automatically differences in code between two commits
