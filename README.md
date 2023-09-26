@@ -7,5 +7,5 @@ new named branch is created from Github Desktop.
 
 Merging from GitDesktop & then pushed to the Github.
 
-- Resolving Merge Conflicts-
+- Resolving Merge Conflicts done from Github Desktop-
 	- An event where git is unable to resolve automatically differences in code between two commits
