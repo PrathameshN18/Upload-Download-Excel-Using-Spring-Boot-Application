@@ -16,4 +16,4 @@ Merging from GitDesktop & then pushed to the Github.
  On this day sending sms through webhook by committing some changes in this repo. A success sms will be sent & with the help of ngrock sms api is made public.
 
 
- -Again after writing this changes so that after another commit a successfull sms will be sent.
+ -Again after writing this changes so that after another commit a successfull sms will be sent-------
