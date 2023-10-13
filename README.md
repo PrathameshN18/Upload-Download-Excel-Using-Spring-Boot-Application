@@ -9,3 +9,8 @@ Merging from GitDesktop & then pushed to the Github.
 
 - Resolving Merge Conflicts done from Github Desktop-
 	- An event where git is unable to resolve automatically differences in code between two commits
+
+
+
+-Date 13-10-2023 
+ On this day sending sms through webhook by committing some changes in this repo. A success sms will be sent & with the help of ngrock sms api is made public.
